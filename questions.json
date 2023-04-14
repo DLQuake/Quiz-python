@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answers": ["London", "Paris", "Berlin", "Madrid"],
+        "correct_answer": "Paris"
+    },
+    {
+        "question": "What is the tallest mammal?",
+        "answers": ["Giraffe", "Elephant", "Hippo", "Rhinoceros"],
+        "correct_answer": "Giraffe"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "answers": ["San Marino", "Monaco", "Nauru", "Vatican City"],
+        "correct_answer": "Vatican City"
+    }
+]
