@@ -40,6 +40,15 @@ The "questions" key contains an array of question objects. Each question object 
 * "options": an array of possible answer options.
 * "answer": the correct answer in the "options" array.
 
+## Downloads
+You can download the repository using one of the following methods:
+* Clone the repository using Git:
+    ```bash
+    git clone https://github.com/DLQuake/Quiz-python.git
+    ```
+* Download the repository as a ZIP file:
+[Download ZIP](https://github.com/DLQuake/Quiz-python/archive/refs/heads/main.zip).
+
 ## License
 
 This program is available under the MIT License.
